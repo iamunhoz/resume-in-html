@@ -9,7 +9,7 @@
 
 :root {
   --page-width: 8.5in;
-  --page-height: 9in;
+  --page-height: 11in;
   --main-width: 6.4in;
   --sidebar-width: calc(var(--page-width) - var(--main-width));
   --decorator-horizontal-margin: 0.2in;
@@ -299,6 +299,7 @@ h2 {
 
 #main li {
   margin: 0 0 0.025in 0;
+  font-size: 9.5px;
 }
 
 /****** customize list symbol style ******/
